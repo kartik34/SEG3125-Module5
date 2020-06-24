@@ -1,0 +1,32 @@
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+/*  text-shadow: 3px 3px 1px black;
+*/  
+}
+container-md{
+	color: black;
+}
+title{
+	font-family: Arial, Gadget, sans-serif;
+}
+#first{
+	background-color: #F0F0F0;
+}
+#button{
+	margin-top: 2%;
+}
+#logo{
+	margin-right: 10px;
+}
+/*#second{
+	margin-left: 15px;
+}*/
+
+.showInput {
+  background-color: #00FFFF;
+}
